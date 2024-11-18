@@ -89,3 +89,48 @@ More properties, or more items?
 
 ![](Quickstatements-v1-command.png){ width=280px }
 
+---
+
+## Wikibase Documentation and Creating a Wikibase
+
+<url> https://www.wikibase.cloud/ </url>
+
+Within Wikibase.cloud website you can register for creating Wikibases and find the documentation about data modelling, creating and deleting data, importing data, and many other things.
+
+![](wikibase_documentation.png){ width=280px }
+
+<br>
+<br>
+<br>
+<br>
+
+---
+
+![](wikibase_creating_wikibases.png)
+
+<br>
+<br>
+<br>
+
+---
+
+## **Choosing the name and the domain** 
+![](wikibase_domain.png)
+
+<br>
+<br>
+<br>
+
+---
+
+
+## **Wikibase settings**
+
+![](wikibase_settings.png)
+
+---
+
+## Wikibase homepage
+<url> https://finance-eu.wikibase.cloud/wiki/Main_Page </url>
+
+![](wikibase_homepage.png)
