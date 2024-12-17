@@ -1,14 +1,8 @@
-## <u>A Practical Framework for Evaluating the Quality of Knowledge Graph</u>
-
-by Haihua Chen1, Gaohui Cao2, Jiangping Chen1, and Junhua Ding
-
-## Presentation
-
-by Kseniia Blokihna
+% A Practical Framework for Evaluating the Quality of Knowledge Graph
 
 ---
 
-# Structure
+# Table of contents
 
 1. Intruduction
 2. Quality of Knowledge Graph
@@ -18,7 +12,7 @@ by Kseniia Blokihna
     2.2. Approaches and Tools for Evaluating Quality of Knowledge Graph
 3. A Recommended Framework for Quality Evaluation of Knowledge Graph
 4. Related Work
-5. Summary
+5. Summary and future directions
 
 ---
 
@@ -36,6 +30,8 @@ by Kseniia Blokihna
 
 ---
 
+# Introduction
+
 **Quality criteria**
 
   - Correctness, comprehensiveness, and freshness
@@ -49,6 +45,8 @@ by Kseniia Blokihna
   - Handling low-quality items is often the responsibility of application developers
 
 ---
+
+# Introduction
 
 **Purpose**
 
@@ -78,7 +76,9 @@ by Kseniia Blokihna
 
 ---
 
-**Examples of metrics:**
+# Quality Metrics for Knowledge Graph
+
+**Examples of metrics**
 
 - Availability: "Accessibility of RDF dumps"
 
@@ -96,23 +96,7 @@ by Kseniia Blokihna
 
 ---
 
-## Approaches and tools for evaluating quality of knowledge graph
-
-**Types of evaluation**
-
-  - Manual
-
-  - Automated
-
-**Review by Zaveri**
-
-  - Systematic review of 30 approaches and 12 tools
-
-  - Dimensions like syntactic validity and semantic accuracy received significant attention
-
-  - Dimensions like security and performance were less emphasized
-
----
+# Approaches and tools for evaluating quality of KG
 
 ## Evaluation approaches
 
@@ -129,7 +113,7 @@ by Kseniia Blokihna
 
 ---
 
-# A recommended gramework for quality evaluation of knowledge graph  
+# A recommended framework for quality evaluation of KG
 
 **Categories of knowledge graph applications:**
 
@@ -144,6 +128,8 @@ by Kseniia Blokihna
 - Prediction
 
 ---
+
+# A recommended framework for quality evaluation of KG
 
 **Example Use Cases:**
 
@@ -167,7 +153,9 @@ by Kseniia Blokihna
 
 ---
 
-- **Key quality dimensions for different applications:**
+# A recommended framework for quality evaluation of KG
+
+**Key quality dimensions for different applications:**
 
   - **Semantic search:** Syntactic Validity, Semantic Accuracy, Conciseness
 
@@ -176,6 +164,8 @@ by Kseniia Blokihna
   - **Prediction:** Accuracy, Timeliness, Consistency
 
 ---
+
+# A recommended framework for quality evaluation of KG
 
 ## Quality requirements for knowledge graphs
 
@@ -203,13 +193,13 @@ by Kseniia Blokihna
 
 ---
 
-### Knowledge graph requirements produced from representative applications
+# Knowledge graph requirements produced from representative applications
 
 ![](<Knowledge graph requirements produced from representative applications.png>)
 
 ---
 
-### Mapping knowledge graph requirements quality dimensions
+# Mapping knowledge graph requirements quality dimensions
 
 ![](<Mapping knowledge graph requirements quality dimensions.png>)
 
@@ -240,7 +230,7 @@ by Kseniia Blokihna
 
 ---
 
-Combines Zaveri’s framework with theoretical insights from Stvilia
+# Summary and future directions
 
 **Focuses on balancing**
 
@@ -248,20 +238,13 @@ Combines Zaveri’s framework with theoretical insights from Stvilia
 
   - Scalability for large knowledge graphs.
 
----
-
-# Summary and future directions
-
-**Findings**
-
-Syntax and semantics errors significantly impact the quality of knowledge graphs.
-
-**Proposed framework applications**
-
-- Basic quality evaluation for knowledge discovery
-
-- Practical for building knowledge-based applications
-
 **Future work**
 
 Test framework effectiveness on large-scale knowledge graphs
+
+---
+
+# References
+
+1. Chen, H., Cao, G., Chen, J., Ding, J. (2019). A Practical Framework for Evaluating the Quality of Knowledge Graph. In: Zhu, X., Qin, B., Zhu, X., Liu, M., Qian, L. (eds) Knowledge Graph and Semantic Computing: Knowledge Computing and Language Understanding. CCKS 2019. Communications in Computer and Information Science, vol 1134. Springer, Singapore. https://doi.org/10.1007/978-981-15-1956-7_10
+
