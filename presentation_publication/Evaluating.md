@@ -232,11 +232,10 @@
 
 # Summary and future directions
 
-**Focuses on balancing**
 
-  - Comprehensive evaluation with measurable dimensions.
+- Existing frameworks for systematic evaluation of knowledge graphs are either too complex to be practical or lacking of scalability to large knowledge graphs
 
-  - Scalability for large knowledge graphs.
+- A set of quality dimensions and their corresponding metrics based on the requirements of applications built on a knowledge graph were selected
 
 **Future work**
 
