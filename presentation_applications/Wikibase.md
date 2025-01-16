@@ -91,6 +91,13 @@ More properties, or more items?
 
 ---
 
+# Wikibase Cloud
+
+Wikibase.cloud is a cloud-based platform developed by Wikimedia Deutschland that allows users to create and manage their own instances of Wikibase without the need for self-hosting.
+
+It offers a user-friendly environment for building collaborative knowledge bases, leveraging the same software that powers Wikidata.
+
+
 ## Wikibase Documentation and Creating a Wikibase
 
 <url> https://www.wikibase.cloud/ </url>
@@ -102,31 +109,33 @@ Within Wikibase.cloud website you can register for creating Wikibases and find t
 <br>
 <br>
 <br>
+
+---
+
+![](wikibase_creating_wikibases.png)
+
+
+## **Wikibase.cloud allows up to 6 free Wikibase instances**
+
+<br>
+<br>
 <br>
 
 ---
 
 ![](wikibase_creating_wikibases.png)
 
-<br>
-<br>
-<br>
-
----
 
 ## **Choosing the name and the domain** 
 ![](wikibase_domain.png)
 
-<br>
-<br>
-<br>
 
 ---
-
 
 ## **Wikibase settings**
 
 ![](wikibase_settings.png)
+
 
 ---
 
